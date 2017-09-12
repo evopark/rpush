@@ -34,6 +34,7 @@ Gem::Specification.new do |s|
   s.add_development_dependency 'stackprof'
   s.add_development_dependency 'modis', '1.4.2'
   s.add_development_dependency 'rpush-redis', '0.4.1'
+  s.add_development_dependency 'activerecord', '~> 5.0.5'
 
   s.add_development_dependency 'appraisal'
   s.add_development_dependency 'cane'
